@@ -1,0 +1,2 @@
+./COST/cxx QSim.cc
+g++ -Wall -o QSim QSim.cxx

@@ -1,0 +1,1000 @@
+0.026301 - Traffic Source: New packet generated (seq_number = 0)
+0.026301 - Queue Module: New packet 0 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.026301 - Queue Module HP: Packet 0 Scheduled for Transmission of size L=21242
+0.026301 - Traffic Source: New packet generated (seq_number = 1)
+0.026301 - Queue Module: New packet 1 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 2)
+0.026301 - Queue Module: New packet 2 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 3)
+0.026301 - Queue Module: New packet 3 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 4)
+0.026301 - Queue Module: New packet 4 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 5)
+0.026301 - Queue Module: New packet 5 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 6)
+0.026301 - Queue Module: New packet 6 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 7)
+0.026301 - Queue Module: New packet 7 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 8)
+0.026301 - Queue Module: New packet 8 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 9)
+0.026301 - Queue Module: New packet 9 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 10)
+0.026301 - Queue Module: New packet 10 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 11)
+0.026301 - Queue Module: New packet 11 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 12)
+0.026301 - Queue Module: New packet 12 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 13)
+0.026301 - Queue Module: New packet 13 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 14)
+0.026301 - Queue Module: New packet 14 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.026301 - Traffic Source: New packet generated (seq_number = 15)
+0.026301 - Queue Module: New packet 15 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.028232 - Sink: Packet 0 Received! Priority Category = 1
+0.028232 - Service Time Ends: Packet of priority 1 transmitted
+0.028232 - Queue Module HP: Packet 1 Scheduled for Transmission of size L=224
+0.028253 - Sink: Packet 1 Received! Priority Category = 1
+0.028253 - Service Time Ends: Packet of priority 1 transmitted
+0.028253 - Queue Module HP: Packet 2 Scheduled for Transmission of size L=6084
+0.028806 - Sink: Packet 2 Received! Priority Category = 1
+0.028806 - Service Time Ends: Packet of priority 1 transmitted
+0.028806 - Queue Module HP: Packet 3 Scheduled for Transmission of size L=12895
+0.029978 - Sink: Packet 3 Received! Priority Category = 1
+0.029978 - Service Time Ends: Packet of priority 1 transmitted
+0.029978 - Queue Module HP: Packet 4 Scheduled for Transmission of size L=514
+0.030025 - Sink: Packet 4 Received! Priority Category = 1
+0.030025 - Service Time Ends: Packet of priority 1 transmitted
+0.030025 - Queue Module HP: Packet 5 Scheduled for Transmission of size L=6650
+0.030629 - Sink: Packet 5 Received! Priority Category = 1
+0.030629 - Service Time Ends: Packet of priority 1 transmitted
+0.030629 - Queue Module HP: Packet 6 Scheduled for Transmission of size L=100
+0.030638 - Sink: Packet 6 Received! Priority Category = 1
+0.030638 - Service Time Ends: Packet of priority 1 transmitted
+0.030638 - Queue Module HP: Packet 7 Scheduled for Transmission of size L=1045
+0.030733 - Sink: Packet 7 Received! Priority Category = 1
+0.030733 - Service Time Ends: Packet of priority 1 transmitted
+0.030733 - Queue Module HP: Packet 8 Scheduled for Transmission of size L=477
+0.030777 - Sink: Packet 8 Received! Priority Category = 1
+0.030777 - Service Time Ends: Packet of priority 1 transmitted
+0.030777 - Queue Module HP: Packet 9 Scheduled for Transmission of size L=5661
+0.031291 - Sink: Packet 9 Received! Priority Category = 1
+0.031291 - Service Time Ends: Packet of priority 1 transmitted
+0.111904 - Traffic Source: New packet generated (seq_number = 16)
+0.111904 - Queue Module: New packet 16 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.111904 - Queue Module HP: Packet 16 Scheduled for Transmission of size L=6705
+0.111904 - Traffic Source: New packet generated (seq_number = 17)
+0.111904 - Queue Module: New packet 17 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 18)
+0.111904 - Queue Module: New packet 18 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 19)
+0.111904 - Queue Module: New packet 19 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 20)
+0.111904 - Queue Module: New packet 20 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 21)
+0.111904 - Queue Module: New packet 21 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 22)
+0.111904 - Queue Module: New packet 22 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 23)
+0.111904 - Queue Module: New packet 23 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 24)
+0.111904 - Queue Module: New packet 24 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 25)
+0.111904 - Queue Module: New packet 25 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 26)
+0.111904 - Queue Module: New packet 26 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 27)
+0.111904 - Queue Module: New packet 27 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 28)
+0.111904 - Queue Module: New packet 28 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 29)
+0.111904 - Queue Module: New packet 29 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 30)
+0.111904 - Queue Module: New packet 30 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.111904 - Traffic Source: New packet generated (seq_number = 31)
+0.111904 - Queue Module: New packet 31 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.112514 - Sink: Packet 16 Received! Priority Category = 1
+0.112514 - Service Time Ends: Packet of priority 1 transmitted
+0.112514 - Queue Module HP: Packet 17 Scheduled for Transmission of size L=1620
+0.112661 - Sink: Packet 17 Received! Priority Category = 1
+0.112661 - Service Time Ends: Packet of priority 1 transmitted
+0.112661 - Queue Module HP: Packet 18 Scheduled for Transmission of size L=8086
+0.113396 - Sink: Packet 18 Received! Priority Category = 1
+0.113396 - Service Time Ends: Packet of priority 1 transmitted
+0.113396 - Queue Module HP: Packet 19 Scheduled for Transmission of size L=2108
+0.113588 - Sink: Packet 19 Received! Priority Category = 1
+0.113588 - Service Time Ends: Packet of priority 1 transmitted
+0.113588 - Queue Module HP: Packet 20 Scheduled for Transmission of size L=10057
+0.114502 - Sink: Packet 20 Received! Priority Category = 1
+0.114502 - Service Time Ends: Packet of priority 1 transmitted
+0.114502 - Queue Module HP: Packet 21 Scheduled for Transmission of size L=17577
+0.116100 - Sink: Packet 21 Received! Priority Category = 1
+0.116100 - Service Time Ends: Packet of priority 1 transmitted
+0.116100 - Queue Module HP: Packet 22 Scheduled for Transmission of size L=705
+0.116164 - Sink: Packet 22 Received! Priority Category = 1
+0.116164 - Service Time Ends: Packet of priority 1 transmitted
+0.116164 - Queue Module HP: Packet 23 Scheduled for Transmission of size L=16444
+0.117659 - Sink: Packet 23 Received! Priority Category = 1
+0.117659 - Service Time Ends: Packet of priority 1 transmitted
+0.117659 - Queue Module HP: Packet 24 Scheduled for Transmission of size L=5598
+0.118168 - Sink: Packet 24 Received! Priority Category = 1
+0.118168 - Service Time Ends: Packet of priority 1 transmitted
+0.118168 - Queue Module HP: Packet 25 Scheduled for Transmission of size L=10050
+0.119081 - Sink: Packet 25 Received! Priority Category = 1
+0.119081 - Service Time Ends: Packet of priority 1 transmitted
+0.129334 - Traffic Source: New packet generated (seq_number = 32)
+0.129334 - Queue Module: New packet 32 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.129334 - Queue Module HP: Packet 32 Scheduled for Transmission of size L=2948
+0.129334 - Traffic Source: New packet generated (seq_number = 33)
+0.129334 - Queue Module: New packet 33 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 34)
+0.129334 - Queue Module: New packet 34 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 35)
+0.129334 - Queue Module: New packet 35 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 36)
+0.129334 - Queue Module: New packet 36 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 37)
+0.129334 - Queue Module: New packet 37 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 38)
+0.129334 - Queue Module: New packet 38 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 39)
+0.129334 - Queue Module: New packet 39 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 40)
+0.129334 - Queue Module: New packet 40 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 41)
+0.129334 - Queue Module: New packet 41 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 42)
+0.129334 - Queue Module: New packet 42 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 43)
+0.129334 - Queue Module: New packet 43 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 44)
+0.129334 - Queue Module: New packet 44 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 45)
+0.129334 - Queue Module: New packet 45 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 46)
+0.129334 - Queue Module: New packet 46 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129334 - Traffic Source: New packet generated (seq_number = 47)
+0.129334 - Queue Module: New packet 47 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.129602 - Sink: Packet 32 Received! Priority Category = 1
+0.129602 - Service Time Ends: Packet of priority 1 transmitted
+0.129602 - Queue Module HP: Packet 33 Scheduled for Transmission of size L=6076
+0.130154 - Sink: Packet 33 Received! Priority Category = 1
+0.130154 - Service Time Ends: Packet of priority 1 transmitted
+0.130154 - Queue Module HP: Packet 34 Scheduled for Transmission of size L=21542
+0.130315 - Traffic Source: New packet generated (seq_number = 48)
+0.130315 - Queue Module: New packet 48 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 49)
+0.130315 - Queue Module: New packet 49 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 50)
+0.130315 - Queue Module: New packet 50 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 51)
+0.130315 - Queue Module: New packet 51 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 52)
+0.130315 - Queue Module: New packet 52 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 53)
+0.130315 - Queue Module: New packet 53 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 54)
+0.130315 - Queue Module: New packet 54 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 55)
+0.130315 - Queue Module: New packet 55 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 56)
+0.130315 - Queue Module: New packet 56 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 57)
+0.130315 - Queue Module: New packet 57 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 58)
+0.130315 - Queue Module: New packet 58 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 59)
+0.130315 - Queue Module: New packet 59 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 60)
+0.130315 - Queue Module: New packet 60 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 61)
+0.130315 - Queue Module: New packet 61 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 62)
+0.130315 - Queue Module: New packet 62 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.130315 - Traffic Source: New packet generated (seq_number = 63)
+0.130315 - Queue Module: New packet 63 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.132113 - Sink: Packet 34 Received! Priority Category = 1
+0.132113 - Service Time Ends: Packet of priority 1 transmitted
+0.132113 - Queue Module HP: Packet 35 Scheduled for Transmission of size L=22955
+0.134200 - Sink: Packet 35 Received! Priority Category = 1
+0.134200 - Service Time Ends: Packet of priority 1 transmitted
+0.134200 - Queue Module HP: Packet 36 Scheduled for Transmission of size L=14118
+0.135483 - Sink: Packet 36 Received! Priority Category = 1
+0.135483 - Service Time Ends: Packet of priority 1 transmitted
+0.135483 - Queue Module HP: Packet 37 Scheduled for Transmission of size L=18817
+0.137194 - Sink: Packet 37 Received! Priority Category = 1
+0.137194 - Service Time Ends: Packet of priority 1 transmitted
+0.137194 - Queue Module HP: Packet 38 Scheduled for Transmission of size L=24094
+0.139384 - Sink: Packet 38 Received! Priority Category = 1
+0.139384 - Service Time Ends: Packet of priority 1 transmitted
+0.139384 - Queue Module HP: Packet 39 Scheduled for Transmission of size L=3807
+0.139730 - Sink: Packet 39 Received! Priority Category = 1
+0.139730 - Service Time Ends: Packet of priority 1 transmitted
+0.139730 - Queue Module HP: Packet 40 Scheduled for Transmission of size L=4450
+0.140135 - Sink: Packet 40 Received! Priority Category = 1
+0.140135 - Service Time Ends: Packet of priority 1 transmitted
+0.140135 - Queue Module HP: Packet 41 Scheduled for Transmission of size L=268
+0.140159 - Sink: Packet 41 Received! Priority Category = 1
+0.140159 - Service Time Ends: Packet of priority 1 transmitted
+0.140159 - Queue Module HP: Packet 48 Scheduled for Transmission of size L=613
+0.140215 - Sink: Packet 48 Received! Priority Category = 1
+0.140215 - Service Time Ends: Packet of priority 1 transmitted
+0.140215 - Queue Module HP: Packet 49 Scheduled for Transmission of size L=23497
+0.142351 - Sink: Packet 49 Received! Priority Category = 1
+0.142351 - Service Time Ends: Packet of priority 1 transmitted
+0.154968 - Traffic Source: New packet generated (seq_number = 64)
+0.154968 - Queue Module: New packet 64 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.154968 - Queue Module HP: Packet 64 Scheduled for Transmission of size L=10986
+0.154968 - Traffic Source: New packet generated (seq_number = 65)
+0.154968 - Queue Module: New packet 65 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 66)
+0.154968 - Queue Module: New packet 66 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 67)
+0.154968 - Queue Module: New packet 67 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 68)
+0.154968 - Queue Module: New packet 68 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 69)
+0.154968 - Queue Module: New packet 69 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 70)
+0.154968 - Queue Module: New packet 70 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 71)
+0.154968 - Queue Module: New packet 71 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 72)
+0.154968 - Queue Module: New packet 72 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 73)
+0.154968 - Queue Module: New packet 73 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 74)
+0.154968 - Queue Module: New packet 74 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 75)
+0.154968 - Queue Module: New packet 75 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 76)
+0.154968 - Queue Module: New packet 76 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 77)
+0.154968 - Queue Module: New packet 77 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 78)
+0.154968 - Queue Module: New packet 78 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.154968 - Traffic Source: New packet generated (seq_number = 79)
+0.154968 - Queue Module: New packet 79 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.155967 - Sink: Packet 64 Received! Priority Category = 1
+0.155967 - Service Time Ends: Packet of priority 1 transmitted
+0.155967 - Queue Module HP: Packet 65 Scheduled for Transmission of size L=424
+0.156005 - Sink: Packet 65 Received! Priority Category = 1
+0.156005 - Service Time Ends: Packet of priority 1 transmitted
+0.156005 - Queue Module HP: Packet 66 Scheduled for Transmission of size L=11188
+0.157022 - Sink: Packet 66 Received! Priority Category = 1
+0.157022 - Service Time Ends: Packet of priority 1 transmitted
+0.157022 - Queue Module HP: Packet 67 Scheduled for Transmission of size L=14003
+0.158295 - Sink: Packet 67 Received! Priority Category = 1
+0.158295 - Service Time Ends: Packet of priority 1 transmitted
+0.158295 - Queue Module HP: Packet 68 Scheduled for Transmission of size L=10524
+0.158674 - Traffic Source: New packet generated (seq_number = 80)
+0.158674 - Queue Module: New packet 80 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 81)
+0.158674 - Queue Module: New packet 81 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 82)
+0.158674 - Queue Module: New packet 82 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 83)
+0.158674 - Queue Module: New packet 83 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 84)
+0.158674 - Queue Module: New packet 84 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 85)
+0.158674 - Queue Module: New packet 85 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 86)
+0.158674 - Queue Module: New packet 86 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 87)
+0.158674 - Queue Module: New packet 87 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 88)
+0.158674 - Queue Module: New packet 88 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 89)
+0.158674 - Queue Module: New packet 89 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 90)
+0.158674 - Queue Module: New packet 90 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 91)
+0.158674 - Queue Module: New packet 91 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 92)
+0.158674 - Queue Module: New packet 92 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 93)
+0.158674 - Queue Module: New packet 93 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 94)
+0.158674 - Queue Module: New packet 94 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.158674 - Traffic Source: New packet generated (seq_number = 95)
+0.158674 - Queue Module: New packet 95 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.159252 - Sink: Packet 68 Received! Priority Category = 1
+0.159252 - Service Time Ends: Packet of priority 1 transmitted
+0.159252 - Queue Module HP: Packet 69 Scheduled for Transmission of size L=7
+0.159253 - Sink: Packet 69 Received! Priority Category = 1
+0.159253 - Service Time Ends: Packet of priority 1 transmitted
+0.159253 - Queue Module HP: Packet 70 Scheduled for Transmission of size L=1254
+0.159367 - Sink: Packet 70 Received! Priority Category = 1
+0.159367 - Service Time Ends: Packet of priority 1 transmitted
+0.159367 - Queue Module HP: Packet 71 Scheduled for Transmission of size L=52
+0.159371 - Sink: Packet 71 Received! Priority Category = 1
+0.159371 - Service Time Ends: Packet of priority 1 transmitted
+0.159371 - Queue Module HP: Packet 72 Scheduled for Transmission of size L=31042
+0.162193 - Sink: Packet 72 Received! Priority Category = 1
+0.162193 - Service Time Ends: Packet of priority 1 transmitted
+0.162193 - Queue Module HP: Packet 73 Scheduled for Transmission of size L=8675
+0.162982 - Sink: Packet 73 Received! Priority Category = 1
+0.162982 - Service Time Ends: Packet of priority 1 transmitted
+0.162982 - Queue Module HP: Packet 80 Scheduled for Transmission of size L=2786
+0.163235 - Sink: Packet 80 Received! Priority Category = 1
+0.163235 - Service Time Ends: Packet of priority 1 transmitted
+0.163235 - Queue Module HP: Packet 81 Scheduled for Transmission of size L=23342
+0.165357 - Sink: Packet 81 Received! Priority Category = 1
+0.165357 - Service Time Ends: Packet of priority 1 transmitted
+0.165357 - Queue Module HP: Packet 82 Scheduled for Transmission of size L=4425
+0.165759 - Sink: Packet 82 Received! Priority Category = 1
+0.165759 - Service Time Ends: Packet of priority 1 transmitted
+0.165759 - Queue Module HP: Packet 83 Scheduled for Transmission of size L=555
+0.165810 - Sink: Packet 83 Received! Priority Category = 1
+0.165810 - Service Time Ends: Packet of priority 1 transmitted
+0.173996 - Traffic Source: New packet generated (seq_number = 96)
+0.173996 - Queue Module: New packet 96 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.173996 - Queue Module HP: Packet 96 Scheduled for Transmission of size L=31005
+0.173996 - Traffic Source: New packet generated (seq_number = 97)
+0.173996 - Queue Module: New packet 97 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 98)
+0.173996 - Queue Module: New packet 98 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 99)
+0.173996 - Queue Module: New packet 99 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 100)
+0.173996 - Queue Module: New packet 100 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 101)
+0.173996 - Queue Module: New packet 101 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 102)
+0.173996 - Queue Module: New packet 102 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 103)
+0.173996 - Queue Module: New packet 103 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 104)
+0.173996 - Queue Module: New packet 104 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 105)
+0.173996 - Queue Module: New packet 105 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 106)
+0.173996 - Queue Module: New packet 106 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 107)
+0.173996 - Queue Module: New packet 107 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 108)
+0.173996 - Queue Module: New packet 108 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 109)
+0.173996 - Queue Module: New packet 109 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 110)
+0.173996 - Queue Module: New packet 110 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.173996 - Traffic Source: New packet generated (seq_number = 111)
+0.173996 - Queue Module: New packet 111 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.176814 - Sink: Packet 96 Received! Priority Category = 1
+0.176814 - Service Time Ends: Packet of priority 1 transmitted
+0.176814 - Queue Module HP: Packet 97 Scheduled for Transmission of size L=5079
+0.177276 - Sink: Packet 97 Received! Priority Category = 1
+0.177276 - Service Time Ends: Packet of priority 1 transmitted
+0.177276 - Queue Module HP: Packet 98 Scheduled for Transmission of size L=21164
+0.179200 - Sink: Packet 98 Received! Priority Category = 1
+0.179200 - Service Time Ends: Packet of priority 1 transmitted
+0.179200 - Queue Module HP: Packet 99 Scheduled for Transmission of size L=11632
+0.180258 - Sink: Packet 99 Received! Priority Category = 1
+0.180258 - Service Time Ends: Packet of priority 1 transmitted
+0.180258 - Queue Module HP: Packet 100 Scheduled for Transmission of size L=1520
+0.180396 - Sink: Packet 100 Received! Priority Category = 1
+0.180396 - Service Time Ends: Packet of priority 1 transmitted
+0.180396 - Queue Module HP: Packet 101 Scheduled for Transmission of size L=15152
+0.181773 - Sink: Packet 101 Received! Priority Category = 1
+0.181773 - Service Time Ends: Packet of priority 1 transmitted
+0.181773 - Queue Module HP: Packet 102 Scheduled for Transmission of size L=57829
+0.187030 - Sink: Packet 102 Received! Priority Category = 1
+0.187030 - Service Time Ends: Packet of priority 1 transmitted
+0.187030 - Queue Module HP: Packet 103 Scheduled for Transmission of size L=8398
+0.187794 - Sink: Packet 103 Received! Priority Category = 1
+0.187794 - Service Time Ends: Packet of priority 1 transmitted
+0.187794 - Queue Module HP: Packet 104 Scheduled for Transmission of size L=38321
+0.191278 - Sink: Packet 104 Received! Priority Category = 1
+0.191278 - Service Time Ends: Packet of priority 1 transmitted
+0.191278 - Queue Module HP: Packet 105 Scheduled for Transmission of size L=20090
+0.192294 - Traffic Source: New packet generated (seq_number = 112)
+0.192294 - Queue Module: New packet 112 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 113)
+0.192294 - Queue Module: New packet 113 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 114)
+0.192294 - Queue Module: New packet 114 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 115)
+0.192294 - Queue Module: New packet 115 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 116)
+0.192294 - Queue Module: New packet 116 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 117)
+0.192294 - Queue Module: New packet 117 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 118)
+0.192294 - Queue Module: New packet 118 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 119)
+0.192294 - Queue Module: New packet 119 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 120)
+0.192294 - Queue Module: New packet 120 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 121)
+0.192294 - Queue Module: New packet 121 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 122)
+0.192294 - Queue Module: New packet 122 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 123)
+0.192294 - Queue Module: New packet 123 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 124)
+0.192294 - Queue Module: New packet 124 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 125)
+0.192294 - Queue Module: New packet 125 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 126)
+0.192294 - Queue Module: New packet 126 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192294 - Traffic Source: New packet generated (seq_number = 127)
+0.192294 - Queue Module: New packet 127 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 128)
+0.192496 - Queue Module: New packet 128 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 129)
+0.192496 - Queue Module: New packet 129 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 130)
+0.192496 - Queue Module: New packet 130 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 131)
+0.192496 - Queue Module: New packet 131 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 132)
+0.192496 - Queue Module: New packet 132 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 133)
+0.192496 - Queue Module: New packet 133 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 134)
+0.192496 - Queue Module: New packet 134 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 135)
+0.192496 - Queue Module: New packet 135 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 136)
+0.192496 - Queue Module: New packet 136 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 137)
+0.192496 - Queue Module: New packet 137 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 138)
+0.192496 - Queue Module: New packet 138 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 139)
+0.192496 - Queue Module: New packet 139 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 140)
+0.192496 - Queue Module: New packet 140 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 141)
+0.192496 - Queue Module: New packet 141 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 142)
+0.192496 - Queue Module: New packet 142 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.192496 - Traffic Source: New packet generated (seq_number = 143)
+0.192496 - Queue Module: New packet 143 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193104 - Sink: Packet 105 Received! Priority Category = 1
+0.193104 - Service Time Ends: Packet of priority 1 transmitted
+0.193104 - Queue Module HP: Packet 112 Scheduled for Transmission of size L=17790
+0.193366 - Traffic Source: New packet generated (seq_number = 144)
+0.193366 - Queue Module: New packet 144 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 145)
+0.193366 - Queue Module: New packet 145 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 146)
+0.193366 - Queue Module: New packet 146 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 147)
+0.193366 - Queue Module: New packet 147 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 148)
+0.193366 - Queue Module: New packet 148 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 149)
+0.193366 - Queue Module: New packet 149 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 150)
+0.193366 - Queue Module: New packet 150 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 151)
+0.193366 - Queue Module: New packet 151 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 152)
+0.193366 - Queue Module: New packet 152 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 153)
+0.193366 - Queue Module: New packet 153 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 154)
+0.193366 - Queue Module: New packet 154 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 155)
+0.193366 - Queue Module: New packet 155 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 156)
+0.193366 - Queue Module: New packet 156 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 157)
+0.193366 - Queue Module: New packet 157 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 158)
+0.193366 - Queue Module: New packet 158 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.193366 - Traffic Source: New packet generated (seq_number = 159)
+0.193366 - Queue Module: New packet 159 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.194721 - Sink: Packet 112 Received! Priority Category = 1
+0.194721 - Service Time Ends: Packet of priority 1 transmitted
+0.194721 - Queue Module HP: Packet 113 Scheduled for Transmission of size L=14088
+0.196002 - Sink: Packet 113 Received! Priority Category = 1
+0.196002 - Service Time Ends: Packet of priority 1 transmitted
+0.196002 - Queue Module HP: Packet 114 Scheduled for Transmission of size L=4317
+0.196199 - Traffic Source: New packet generated (seq_number = 160)
+0.196199 - Queue Module: New packet 160 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 161)
+0.196199 - Queue Module: New packet 161 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 162)
+0.196199 - Queue Module: New packet 162 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 163)
+0.196199 - Queue Module: New packet 163 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 164)
+0.196199 - Queue Module: New packet 164 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 165)
+0.196199 - Queue Module: New packet 165 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 166)
+0.196199 - Queue Module: New packet 166 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 167)
+0.196199 - Queue Module: New packet 167 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 168)
+0.196199 - Queue Module: New packet 168 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 169)
+0.196199 - Queue Module: New packet 169 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 170)
+0.196199 - Queue Module: New packet 170 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 171)
+0.196199 - Queue Module: New packet 171 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 172)
+0.196199 - Queue Module: New packet 172 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 173)
+0.196199 - Queue Module: New packet 173 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 174)
+0.196199 - Queue Module: New packet 174 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196199 - Traffic Source: New packet generated (seq_number = 175)
+0.196199 - Queue Module: New packet 175 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.196394 - Sink: Packet 114 Received! Priority Category = 1
+0.196394 - Service Time Ends: Packet of priority 1 transmitted
+0.196394 - Queue Module HP: Packet 115 Scheduled for Transmission of size L=19621
+0.198178 - Sink: Packet 115 Received! Priority Category = 1
+0.198178 - Service Time Ends: Packet of priority 1 transmitted
+0.198178 - Queue Module HP: Packet 116 Scheduled for Transmission of size L=6843
+0.198800 - Sink: Packet 116 Received! Priority Category = 1
+0.198800 - Service Time Ends: Packet of priority 1 transmitted
+0.198800 - Queue Module HP: Packet 117 Scheduled for Transmission of size L=31552
+0.201669 - Sink: Packet 117 Received! Priority Category = 1
+0.201669 - Service Time Ends: Packet of priority 1 transmitted
+0.201669 - Queue Module HP: Packet 118 Scheduled for Transmission of size L=2877
+0.201930 - Sink: Packet 118 Received! Priority Category = 1
+0.201930 - Service Time Ends: Packet of priority 1 transmitted
+0.201930 - Queue Module HP: Packet 119 Scheduled for Transmission of size L=5351
+0.202417 - Sink: Packet 119 Received! Priority Category = 1
+0.202417 - Service Time Ends: Packet of priority 1 transmitted
+0.202417 - Queue Module HP: Packet 120 Scheduled for Transmission of size L=26710
+0.204057 - Traffic Source: New packet generated (seq_number = 176)
+0.204057 - Queue Module: New packet 176 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 177)
+0.204057 - Queue Module: New packet 177 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 178)
+0.204057 - Queue Module: New packet 178 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 179)
+0.204057 - Queue Module: New packet 179 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 180)
+0.204057 - Queue Module: New packet 180 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 181)
+0.204057 - Queue Module: New packet 181 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 182)
+0.204057 - Queue Module: New packet 182 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 183)
+0.204057 - Queue Module: New packet 183 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 184)
+0.204057 - Queue Module: New packet 184 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 185)
+0.204057 - Queue Module: New packet 185 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 186)
+0.204057 - Queue Module: New packet 186 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 187)
+0.204057 - Queue Module: New packet 187 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 188)
+0.204057 - Queue Module: New packet 188 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 189)
+0.204057 - Queue Module: New packet 189 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 190)
+0.204057 - Queue Module: New packet 190 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204057 - Traffic Source: New packet generated (seq_number = 191)
+0.204057 - Queue Module: New packet 191 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.204845 - Sink: Packet 120 Received! Priority Category = 1
+0.204845 - Service Time Ends: Packet of priority 1 transmitted
+0.204845 - Queue Module HP: Packet 144 Scheduled for Transmission of size L=12734
+0.206002 - Sink: Packet 144 Received! Priority Category = 1
+0.206002 - Service Time Ends: Packet of priority 1 transmitted
+0.206002 - Queue Module HP: Packet 160 Scheduled for Transmission of size L=30146
+0.208743 - Sink: Packet 160 Received! Priority Category = 1
+0.208743 - Service Time Ends: Packet of priority 1 transmitted
+0.208743 - Queue Module HP: Packet 161 Scheduled for Transmission of size L=12404
+0.209871 - Sink: Packet 161 Received! Priority Category = 1
+0.209871 - Service Time Ends: Packet of priority 1 transmitted
+0.209871 - Queue Module HP: Packet 176 Scheduled for Transmission of size L=8918
+0.210681 - Sink: Packet 176 Received! Priority Category = 1
+0.210681 - Service Time Ends: Packet of priority 1 transmitted
+0.210681 - Queue Module HP: Packet 177 Scheduled for Transmission of size L=70440
+0.210930 - Traffic Source: New packet generated (seq_number = 192)
+0.210930 - Queue Module: New packet 192 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 193)
+0.210930 - Queue Module: New packet 193 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 194)
+0.210930 - Queue Module: New packet 194 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 195)
+0.210930 - Queue Module: New packet 195 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 196)
+0.210930 - Queue Module: New packet 196 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 197)
+0.210930 - Queue Module: New packet 197 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 198)
+0.210930 - Queue Module: New packet 198 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 199)
+0.210930 - Queue Module: New packet 199 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 200)
+0.210930 - Queue Module: New packet 200 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 201)
+0.210930 - Queue Module: New packet 201 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 202)
+0.210930 - Queue Module: New packet 202 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 203)
+0.210930 - Queue Module: New packet 203 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 204)
+0.210930 - Queue Module: New packet 204 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 205)
+0.210930 - Queue Module: New packet 205 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 206)
+0.210930 - Queue Module: New packet 206 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.210930 - Traffic Source: New packet generated (seq_number = 207)
+0.210930 - Queue Module: New packet 207 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 208)
+0.216298 - Queue Module: New packet 208 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 209)
+0.216298 - Queue Module: New packet 209 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 210)
+0.216298 - Queue Module: New packet 210 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 211)
+0.216298 - Queue Module: New packet 211 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 212)
+0.216298 - Queue Module: New packet 212 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 213)
+0.216298 - Queue Module: New packet 213 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 214)
+0.216298 - Queue Module: New packet 214 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 215)
+0.216298 - Queue Module: New packet 215 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 216)
+0.216298 - Queue Module: New packet 216 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 217)
+0.216298 - Queue Module: New packet 217 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 218)
+0.216298 - Queue Module: New packet 218 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 219)
+0.216298 - Queue Module: New packet 219 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 220)
+0.216298 - Queue Module: New packet 220 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 221)
+0.216298 - Queue Module: New packet 221 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 222)
+0.216298 - Queue Module: New packet 222 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.216298 - Traffic Source: New packet generated (seq_number = 223)
+0.216298 - Queue Module: New packet 223 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.217085 - Sink: Packet 177 Received! Priority Category = 1
+0.217085 - Service Time Ends: Packet of priority 1 transmitted
+0.217085 - Queue Module HP: Packet 178 Scheduled for Transmission of size L=2834
+0.217343 - Sink: Packet 178 Received! Priority Category = 1
+0.217343 - Service Time Ends: Packet of priority 1 transmitted
+0.217343 - Queue Module HP: Packet 179 Scheduled for Transmission of size L=6567
+0.217940 - Sink: Packet 179 Received! Priority Category = 1
+0.217940 - Service Time Ends: Packet of priority 1 transmitted
+0.217940 - Queue Module HP: Packet 180 Scheduled for Transmission of size L=4075
+0.218310 - Sink: Packet 180 Received! Priority Category = 1
+0.218310 - Service Time Ends: Packet of priority 1 transmitted
+0.218310 - Queue Module HP: Packet 181 Scheduled for Transmission of size L=4453
+0.218715 - Sink: Packet 181 Received! Priority Category = 1
+0.218715 - Service Time Ends: Packet of priority 1 transmitted
+0.218715 - Queue Module HP: Packet 192 Scheduled for Transmission of size L=29173
+0.221367 - Sink: Packet 192 Received! Priority Category = 1
+0.221367 - Service Time Ends: Packet of priority 1 transmitted
+0.221367 - Queue Module HP: Packet 193 Scheduled for Transmission of size L=21759
+0.223345 - Sink: Packet 193 Received! Priority Category = 1
+0.223345 - Service Time Ends: Packet of priority 1 transmitted
+0.223345 - Queue Module HP: Packet 194 Scheduled for Transmission of size L=3734
+0.223684 - Sink: Packet 194 Received! Priority Category = 1
+0.223684 - Service Time Ends: Packet of priority 1 transmitted
+0.223684 - Queue Module HP: Packet 195 Scheduled for Transmission of size L=155
+0.223699 - Sink: Packet 195 Received! Priority Category = 1
+0.223699 - Service Time Ends: Packet of priority 1 transmitted
+0.223699 - Queue Module HP: Packet 196 Scheduled for Transmission of size L=43154
+0.224268 - Traffic Source: New packet generated (seq_number = 224)
+0.224268 - Queue Module: New packet 224 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 225)
+0.224268 - Queue Module: New packet 225 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 226)
+0.224268 - Queue Module: New packet 226 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 227)
+0.224268 - Queue Module: New packet 227 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 228)
+0.224268 - Queue Module: New packet 228 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 229)
+0.224268 - Queue Module: New packet 229 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 230)
+0.224268 - Queue Module: New packet 230 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 231)
+0.224268 - Queue Module: New packet 231 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 232)
+0.224268 - Queue Module: New packet 232 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 233)
+0.224268 - Queue Module: New packet 233 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 234)
+0.224268 - Queue Module: New packet 234 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 235)
+0.224268 - Queue Module: New packet 235 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 236)
+0.224268 - Queue Module: New packet 236 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 237)
+0.224268 - Queue Module: New packet 237 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 238)
+0.224268 - Queue Module: New packet 238 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.224268 - Traffic Source: New packet generated (seq_number = 239)
+0.224268 - Queue Module: New packet 239 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.227622 - Sink: Packet 196 Received! Priority Category = 1
+0.227622 - Service Time Ends: Packet of priority 1 transmitted
+0.227622 - Queue Module HP: Packet 224 Scheduled for Transmission of size L=2782
+0.227875 - Sink: Packet 224 Received! Priority Category = 1
+0.227875 - Service Time Ends: Packet of priority 1 transmitted
+0.227875 - Queue Module HP: Packet 225 Scheduled for Transmission of size L=4245
+0.228260 - Sink: Packet 225 Received! Priority Category = 1
+0.228260 - Service Time Ends: Packet of priority 1 transmitted
+0.228260 - Queue Module HP: Packet 226 Scheduled for Transmission of size L=22317
+0.230289 - Sink: Packet 226 Received! Priority Category = 1
+0.230289 - Service Time Ends: Packet of priority 1 transmitted
+0.230289 - Queue Module HP: Packet 227 Scheduled for Transmission of size L=6279
+0.230860 - Sink: Packet 227 Received! Priority Category = 1
+0.230860 - Service Time Ends: Packet of priority 1 transmitted
+0.230860 - Queue Module HP: Packet 228 Scheduled for Transmission of size L=27475
+0.233358 - Sink: Packet 228 Received! Priority Category = 1
+0.233358 - Service Time Ends: Packet of priority 1 transmitted
+0.233358 - Queue Module HP: Packet 229 Scheduled for Transmission of size L=1407
+0.233486 - Sink: Packet 229 Received! Priority Category = 1
+0.233486 - Service Time Ends: Packet of priority 1 transmitted
+0.233486 - Queue Module HP: Packet 230 Scheduled for Transmission of size L=829
+0.233561 - Sink: Packet 230 Received! Priority Category = 1
+0.233561 - Service Time Ends: Packet of priority 1 transmitted
+0.233561 - Queue Module HP: Packet 231 Scheduled for Transmission of size L=56
+0.233566 - Sink: Packet 231 Received! Priority Category = 1
+0.233566 - Service Time Ends: Packet of priority 1 transmitted
+0.233566 - Queue Module HP: Packet 232 Scheduled for Transmission of size L=10202
+0.234494 - Sink: Packet 232 Received! Priority Category = 1
+0.234494 - Service Time Ends: Packet of priority 1 transmitted
+0.236188 - Traffic Source: New packet generated (seq_number = 240)
+0.236188 - Queue Module: New packet 240 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.236188 - Queue Module HP: Packet 240 Scheduled for Transmission of size L=13082
+0.236188 - Traffic Source: New packet generated (seq_number = 241)
+0.236188 - Queue Module: New packet 241 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 242)
+0.236188 - Queue Module: New packet 242 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 243)
+0.236188 - Queue Module: New packet 243 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 244)
+0.236188 - Queue Module: New packet 244 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 245)
+0.236188 - Queue Module: New packet 245 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 246)
+0.236188 - Queue Module: New packet 246 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 247)
+0.236188 - Queue Module: New packet 247 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 248)
+0.236188 - Queue Module: New packet 248 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 249)
+0.236188 - Queue Module: New packet 249 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 250)
+0.236188 - Queue Module: New packet 250 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 251)
+0.236188 - Queue Module: New packet 251 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 252)
+0.236188 - Queue Module: New packet 252 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 253)
+0.236188 - Queue Module: New packet 253 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 254)
+0.236188 - Queue Module: New packet 254 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.236188 - Traffic Source: New packet generated (seq_number = 255)
+0.236188 - Queue Module: New packet 255 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.237377 - Sink: Packet 240 Received! Priority Category = 1
+0.237377 - Service Time Ends: Packet of priority 1 transmitted
+0.237377 - Queue Module HP: Packet 241 Scheduled for Transmission of size L=6291
+0.237949 - Sink: Packet 241 Received! Priority Category = 1
+0.237949 - Service Time Ends: Packet of priority 1 transmitted
+0.237949 - Queue Module HP: Packet 242 Scheduled for Transmission of size L=1582
+0.238093 - Sink: Packet 242 Received! Priority Category = 1
+0.238093 - Service Time Ends: Packet of priority 1 transmitted
+0.238093 - Queue Module HP: Packet 243 Scheduled for Transmission of size L=19698
+0.239884 - Sink: Packet 243 Received! Priority Category = 1
+0.239884 - Service Time Ends: Packet of priority 1 transmitted
+0.239884 - Queue Module HP: Packet 244 Scheduled for Transmission of size L=10283
+0.239890 - Traffic Source: New packet generated (seq_number = 256)
+0.239890 - Queue Module: New packet 256 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 257)
+0.239890 - Queue Module: New packet 257 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 258)
+0.239890 - Queue Module: New packet 258 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 259)
+0.239890 - Queue Module: New packet 259 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 260)
+0.239890 - Queue Module: New packet 260 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 261)
+0.239890 - Queue Module: New packet 261 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 262)
+0.239890 - Queue Module: New packet 262 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 263)
+0.239890 - Queue Module: New packet 263 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 264)
+0.239890 - Queue Module: New packet 264 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 265)
+0.239890 - Queue Module: New packet 265 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 266)
+0.239890 - Queue Module: New packet 266 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 267)
+0.239890 - Queue Module: New packet 267 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 268)
+0.239890 - Queue Module: New packet 268 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 269)
+0.239890 - Queue Module: New packet 269 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 270)
+0.239890 - Queue Module: New packet 270 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.239890 - Traffic Source: New packet generated (seq_number = 271)
+0.239890 - Queue Module: New packet 271 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.240819 - Sink: Packet 244 Received! Priority Category = 1
+0.240819 - Service Time Ends: Packet of priority 1 transmitted
+0.240819 - Queue Module HP: Packet 245 Scheduled for Transmission of size L=371
+0.240852 - Sink: Packet 245 Received! Priority Category = 1
+0.240852 - Service Time Ends: Packet of priority 1 transmitted
+0.240852 - Queue Module HP: Packet 246 Scheduled for Transmission of size L=20772
+0.242741 - Sink: Packet 246 Received! Priority Category = 1
+0.242741 - Service Time Ends: Packet of priority 1 transmitted
+0.242741 - Queue Module HP: Packet 247 Scheduled for Transmission of size L=2051
+0.242927 - Sink: Packet 247 Received! Priority Category = 1
+0.242927 - Service Time Ends: Packet of priority 1 transmitted
+0.242927 - Queue Module HP: Packet 248 Scheduled for Transmission of size L=6998
+0.243183 - Traffic Source: New packet generated (seq_number = 272)
+0.243183 - Queue Module: New packet 272 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 273)
+0.243183 - Queue Module: New packet 273 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 274)
+0.243183 - Queue Module: New packet 274 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 275)
+0.243183 - Queue Module: New packet 275 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 276)
+0.243183 - Queue Module: New packet 276 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 277)
+0.243183 - Queue Module: New packet 277 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 278)
+0.243183 - Queue Module: New packet 278 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 279)
+0.243183 - Queue Module: New packet 279 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 280)
+0.243183 - Queue Module: New packet 280 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 281)
+0.243183 - Queue Module: New packet 281 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 282)
+0.243183 - Queue Module: New packet 282 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 283)
+0.243183 - Queue Module: New packet 283 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 284)
+0.243183 - Queue Module: New packet 284 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 285)
+0.243183 - Queue Module: New packet 285 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 286)
+0.243183 - Queue Module: New packet 286 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243183 - Traffic Source: New packet generated (seq_number = 287)
+0.243183 - Queue Module: New packet 287 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.243563 - Sink: Packet 248 Received! Priority Category = 1
+0.243563 - Service Time Ends: Packet of priority 1 transmitted
+0.243563 - Queue Module HP: Packet 249 Scheduled for Transmission of size L=3880
+0.243916 - Sink: Packet 249 Received! Priority Category = 1
+0.243916 - Service Time Ends: Packet of priority 1 transmitted
+0.243916 - Queue Module HP: Packet 256 Scheduled for Transmission of size L=2700
+0.244162 - Sink: Packet 256 Received! Priority Category = 1
+0.244162 - Service Time Ends: Packet of priority 1 transmitted
+0.244162 - Queue Module HP: Packet 257 Scheduled for Transmission of size L=16137
+0.245629 - Sink: Packet 257 Received! Priority Category = 1
+0.245629 - Service Time Ends: Packet of priority 1 transmitted
+0.245629 - Queue Module HP: Packet 258 Scheduled for Transmission of size L=2905
+0.245893 - Sink: Packet 258 Received! Priority Category = 1
+0.245893 - Service Time Ends: Packet of priority 1 transmitted
+0.245893 - Queue Module HP: Packet 259 Scheduled for Transmission of size L=2338
+0.246105 - Sink: Packet 259 Received! Priority Category = 1
+0.246105 - Service Time Ends: Packet of priority 1 transmitted
+0.246105 - Queue Module HP: Packet 272 Scheduled for Transmission of size L=7286
+0.246768 - Sink: Packet 272 Received! Priority Category = 1
+0.246768 - Service Time Ends: Packet of priority 1 transmitted
+0.246768 - Queue Module HP: Packet 273 Scheduled for Transmission of size L=983
+0.246857 - Sink: Packet 273 Received! Priority Category = 1
+0.246857 - Service Time Ends: Packet of priority 1 transmitted
+0.246857 - Queue Module HP: Packet 274 Scheduled for Transmission of size L=17954
+0.248489 - Sink: Packet 274 Received! Priority Category = 1
+0.248489 - Service Time Ends: Packet of priority 1 transmitted
+0.248489 - Queue Module HP: Packet 275 Scheduled for Transmission of size L=5968
+0.249032 - Sink: Packet 275 Received! Priority Category = 1
+0.249032 - Service Time Ends: Packet of priority 1 transmitted
+0.253915 - Traffic Source: New packet generated (seq_number = 288)
+0.253915 - Queue Module: New packet 288 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.253915 - Queue Module HP: Packet 288 Scheduled for Transmission of size L=15550
+0.253915 - Traffic Source: New packet generated (seq_number = 289)
+0.253915 - Queue Module: New packet 289 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 290)
+0.253915 - Queue Module: New packet 290 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 291)
+0.253915 - Queue Module: New packet 291 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 292)
+0.253915 - Queue Module: New packet 292 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 293)
+0.253915 - Queue Module: New packet 293 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 294)
+0.253915 - Queue Module: New packet 294 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 295)
+0.253915 - Queue Module: New packet 295 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 296)
+0.253915 - Queue Module: New packet 296 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 297)
+0.253915 - Queue Module: New packet 297 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 298)
+0.253915 - Queue Module: New packet 298 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 299)
+0.253915 - Queue Module: New packet 299 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 300)
+0.253915 - Queue Module: New packet 300 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 301)
+0.253915 - Queue Module: New packet 301 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 302)
+0.253915 - Queue Module: New packet 302 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.253915 - Traffic Source: New packet generated (seq_number = 303)
+0.253915 - Queue Module: New packet 303 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.255329 - Sink: Packet 288 Received! Priority Category = 1
+0.255329 - Service Time Ends: Packet of priority 1 transmitted
+0.255329 - Queue Module HP: Packet 289 Scheduled for Transmission of size L=2180
+0.255527 - Sink: Packet 289 Received! Priority Category = 1
+0.255527 - Service Time Ends: Packet of priority 1 transmitted
+0.255527 - Queue Module HP: Packet 290 Scheduled for Transmission of size L=4807
+0.255964 - Sink: Packet 290 Received! Priority Category = 1
+0.255964 - Service Time Ends: Packet of priority 1 transmitted
+0.255964 - Queue Module HP: Packet 291 Scheduled for Transmission of size L=2392
+0.256181 - Sink: Packet 291 Received! Priority Category = 1
+0.256181 - Service Time Ends: Packet of priority 1 transmitted
+0.256181 - Queue Module HP: Packet 292 Scheduled for Transmission of size L=11078
+0.257188 - Sink: Packet 292 Received! Priority Category = 1
+0.257188 - Service Time Ends: Packet of priority 1 transmitted
+0.257188 - Queue Module HP: Packet 293 Scheduled for Transmission of size L=5855
+0.257721 - Sink: Packet 293 Received! Priority Category = 1
+0.257721 - Service Time Ends: Packet of priority 1 transmitted
+0.257721 - Queue Module HP: Packet 294 Scheduled for Transmission of size L=1881
+0.257892 - Sink: Packet 294 Received! Priority Category = 1
+0.257892 - Service Time Ends: Packet of priority 1 transmitted
+0.257892 - Queue Module HP: Packet 295 Scheduled for Transmission of size L=24240
+0.260095 - Sink: Packet 295 Received! Priority Category = 1
+0.260095 - Service Time Ends: Packet of priority 1 transmitted
+0.260095 - Queue Module HP: Packet 296 Scheduled for Transmission of size L=21877
+0.262084 - Sink: Packet 296 Received! Priority Category = 1
+0.262084 - Service Time Ends: Packet of priority 1 transmitted
+0.262084 - Queue Module HP: Packet 297 Scheduled for Transmission of size L=29301
+0.264748 - Sink: Packet 297 Received! Priority Category = 1
+0.264748 - Service Time Ends: Packet of priority 1 transmitted
+0.317688 - Traffic Source: New packet generated (seq_number = 304)
+0.317688 - Queue Module: New packet 304 (source = 1)! Packets in the buffer: HP=0 | LP=0
+0.317688 - Queue Module HP: Packet 304 Scheduled for Transmission of size L=785
+0.317688 - Traffic Source: New packet generated (seq_number = 305)
+0.317688 - Queue Module: New packet 305 (source = 1)! Packets in the buffer: HP=1 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 306)
+0.317688 - Queue Module: New packet 306 (source = 1)! Packets in the buffer: HP=2 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 307)
+0.317688 - Queue Module: New packet 307 (source = 1)! Packets in the buffer: HP=3 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 308)
+0.317688 - Queue Module: New packet 308 (source = 1)! Packets in the buffer: HP=4 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 309)
+0.317688 - Queue Module: New packet 309 (source = 1)! Packets in the buffer: HP=5 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 310)
+0.317688 - Queue Module: New packet 310 (source = 1)! Packets in the buffer: HP=6 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 311)
+0.317688 - Queue Module: New packet 311 (source = 1)! Packets in the buffer: HP=7 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 312)
+0.317688 - Queue Module: New packet 312 (source = 1)! Packets in the buffer: HP=8 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 313)
+0.317688 - Queue Module: New packet 313 (source = 1)! Packets in the buffer: HP=9 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 314)
+0.317688 - Queue Module: New packet 314 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 315)
+0.317688 - Queue Module: New packet 315 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 316)
+0.317688 - Queue Module: New packet 316 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 317)
+0.317688 - Queue Module: New packet 317 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 318)
+0.317688 - Queue Module: New packet 318 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317688 - Traffic Source: New packet generated (seq_number = 319)
+0.317688 - Queue Module: New packet 319 (source = 1)! Packets in the buffer: HP=10 | LP=0
+0.317759 - Sink: Packet 304 Received! Priority Category = 1
+0.317759 - Service Time Ends: Packet of priority 1 transmitted
+0.317759 - Queue Module HP: Packet 305 Scheduled for Transmission of size L=20240
+0.319599 - Sink: Packet 305 Received! Priority Category = 1
+0.319599 - Service Time Ends: Packet of priority 1 transmitted
+0.319599 - Queue Module HP: Packet 306 Scheduled for Transmission of size L=10263
+0.320532 - Sink: Packet 306 Received! Priority Category = 1
+0.320532 - Service Time Ends: Packet of priority 1 transmitted
+0.320532 - Queue Module HP: Packet 307 Scheduled for Transmission of size L=13410
+0.321751 - Sink: Packet 307 Received! Priority Category = 1
+0.321751 - Service Time Ends: Packet of priority 1 transmitted
