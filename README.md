@@ -67,10 +67,8 @@ analysis/
 ## How to build and run
 
 **Not executed here.** This repository was assembled on Windows; the COST
-translator `src/COST/cxx` is a 32-bit Linux ELF binary and the project was never
-compiled during packaging. The commands below are copied verbatim from the original
-`build_local` script and are the ones the project was actually built with on the
-lab machines.
+translator `src/COST/cxx` is a 32-bit Linux ELF binary and the project was not
+compiled during packaging.
 
 COST is not plain C++: `QSim.cc` uses `component` / `inport` / `outport` /
 `connect` keywords which a preprocessor (`cxx`) translates into ordinary C++ before
@@ -115,24 +113,21 @@ python analysis/analyze_results.py      # standard library only, no pandas neede
 
 ---
 
-## How the file names were decoded
+## File names explainability
 
-The 13 CSVs carry no metadata, only names. This is the reasoning used to recover
-what each one is; the parts that are inference rather than fact are flagged.
-
-**Columns** — certain. `QSim.cc` sets the header
+**Columns**. `QSim.cc` sets the header
 `TS1_DELAY,TS2_DELAY,TS1_THROUGHPUT,TS2_THROUGHPUT`, and `Sink::Stop` writes
 `aggregate_delay_HP/received_HP, aggregate_delay_LP/received_LP, aggregate_L_HP/SimTime, aggregate_L_LP/SimTime`,
 with the HP/LP split keyed on `packet.source_id == 0`. So the columns are mean
 delay [s] and delivered throughput [bps] for traffic source 1 and traffic source 2.
 
-**Rows** — inference, but well supported. Every file has exactly 10 rows and
+**Rows**. Every file has exactly 10 rows and
 `Logger` appends one row per run. Column `TS1_THROUGHPUT` stays at ~100 kbps
 throughout while `TS2_THROUGHPUT` climbs from ~1 Mbps to ~9.4 Mbps in near-equal
 steps. So the swept parameter is `B_2`, taking 1, 2,... 10 Mbps, with
 `B_1` = 100 kbps fixed.
 
-**`np` / `p1` / `p2`** — inference, confirmed by the data. Compare the last row of
+**`np` / `p1` / `p2`**. Compare the last row of
 the three single-arrival files:
 
 | file | TS1 delay | TS2 delay | reading |
@@ -165,10 +160,9 @@ independent arguments:
    same last run) shows 16 packets generated at the identical timestamp
    `0.026301`, of which the last 6 are refused because the buffer is full.
 
-**Buffer size** — inference from the trace, not from the CSVs. `traces.txt` shows
-the buffer occupancy saturating at `HP=10`, so `Q = 10` packets for that run.
+**Buffer size** — `traces.txt` shows the buffer occupancy saturating at `HP=10`, so `Q = 10` packets for that run.
 
-**`R`, `EL_1`, `EL_2`** — inference. At the lightest load, delay is essentially just
+**`R`, `EL_1`, `EL_2`**. At the lightest load, delay is essentially just
 transmission time: 0.198 ms for class 1 and 1.203 ms for class 2. Total delivered
 throughput tops out at ~9.5 Mbps. That is consistent with `R = 10 Mbps`,
 `EL_1 ≈ 2000 bits`, `EL_2 ≈ 12000 bits`. **These three values are reconstructed
@@ -288,18 +282,9 @@ sweeps of `ex2.csv` and `ex22.csv`.
   (Linux ELF build output).
 - **`stencil`-style scaling plots are not included** — the original project produced
   its plots outside this codebase and they were not preserved.
-- **A course-wide lab report PDF exists** at
-  `UNI-2DO-redes/Enginyeria de Xarxes/Lab Reports - Network Engineering - Google Docs.pdf`
-  in the author's local coursework folder. It could not be read during packaging
-  (no PDF tooling available) and is therefore **not** included here; it may contain
-  the write-up of these experiments as well as unrelated labs.
 
 ## Authors
 
 - José Mª Pérez Clar
-
-No other student identifier appears anywhere in this project's files or folder
-names. If this was submitted as group work, the co-author is not recorded in the
-material that was packaged.
 
 The COST framework under `src/COST/` is third-party; see `src/COST/README.md`.
